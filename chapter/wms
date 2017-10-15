@@ -1,0 +1,17 @@
+%wms
+%Kelompok 3 D4 TI-3D
+%Aditya Pratama Dharma-1154043
+%Andi Syahjaratu Daur-1154092
+%Bendra Wardana-1154015
+%Dini Islamiani Lestari-1154039
+%Nur Rahmawati-1154124
+
+/section{deskripsi wms}
+   WEB MAP SERVICE adalah salah satu jenis penggambaran OGC Layanan model Layanan web dan ia menyediakan platfrom
+multi-interoperability karya ini menghadirkan sebuah metode untuk menerapkan layanan peta Web OGC berdasarkan teknik
+layanan Web dan memperkenalkan proses terperinci.
+
+  WEB MAP SERVICE (WMS) memberikan informasi kepada pengguna internet oleh tata ruang peta gambar.Umumnya,yang tersimpan di dalam 
+tata ruang data tersebut data vektor itu adalah panjang untuk menciptkan data vektor peta gambar.setiap sub-rectangle dikirim 
+kesebuah wms sub-maps node untuk menghasilakan sekumpulan peta yang dihasilkan akan mengkonstruksi dengan semunya sub-maps. 
+semua sub-maps dihasilkan di paralel,jadi makin sedikit waktu yang habis memproduksi sebuah peta.
